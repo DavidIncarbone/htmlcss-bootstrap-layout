@@ -1,0 +1,21 @@
+* {
+
+    border: 1px solid red;
+}
+
+/* bg and colors */
+
+.di-gray-text {
+
+    color: var(--bs-gray);
+}
+
+.di-light-gray {
+
+    background-color: var(--bs-gray-100)
+}
+
+.di-bg-gray {
+
+    background-color: var(--bs-gray);
+}
